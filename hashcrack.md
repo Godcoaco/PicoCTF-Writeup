@@ -13,6 +13,7 @@ They give us hash and request some password so we gonna compare then to rock.txt
 ### *Short Hash explain
 hash is basily the fingerprint, the dna of file. Like if you have example.txt the hash of that text might be like 'bf58e3391a9d2592beb865232353d11d5c7508f28136a58af24771b8dc4cc64e' and if you add anything into that file the hash not gonna be the same
 and Hash have alot of type like Sha256, Md5, etc... so you might have to tell the command what type of hash when you dealing with them
+
 ---
 
 ## 🛠️ Steps to Solve
