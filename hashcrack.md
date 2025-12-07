@@ -1,4 +1,4 @@
-# 🔐 picoCTF – hashcrack
+# 🔐 picoCTF WriteUp – hashcrack
 
 <!-- To anyone who reading this it my first time using github for my own so please aware of bad english and messy format >;3-->
 ![Category](https://img.shields.io/badge/category-crypto-blue)
