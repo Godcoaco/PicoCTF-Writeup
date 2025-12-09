@@ -1,9 +1,9 @@
-# 🔐 picoCTF WriteUp – MSB
+# 🔐 picoCTF WriteUp – PcapPoisoning
 
 <!-- This one we got lucky so we dont have to use wireshark but I recommand you to learn how to use it for next one anyway >;3-->
-![Category](https://img.shields.io/badge/category-crypto-blue)
-![Difficulty](https://img.shields.io/badge/difficulty-medium-yellow)
 ![Category](https://img.shields.io/badge/category-forensics-blue)
+![Difficulty](https://img.shields.io/badge/difficulty-medium-yellow)
+![Platform](https://img.shields.io/badge/platform-picoCTF-red)
 
 ---
 
