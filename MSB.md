@@ -1,9 +1,9 @@
 # 🔐 picoCTF WriteUp – MSB
 
 <!-- This is not the easy one But once you know the tool it very easy! I did this with Fujatyping and make this writeup right away >;3-->
-![Category](https://img.shields.io/badge/category-crypto-blue)
-![Difficulty](https://img.shields.io/badge/difficulty-medium-yellow)
 ![Category](https://img.shields.io/badge/category-forensics-blue)
+![Difficulty](https://img.shields.io/badge/difficulty-medium-yellow)
+![Platform](https://img.shields.io/badge/platform-picoCTF-red)
 
 ---
 
