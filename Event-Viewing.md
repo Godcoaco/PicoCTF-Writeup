@@ -41,7 +41,7 @@ A Windows log file is a record of system, security, and application events that 
    <br>
 6. Then we can drop those in cyberchef then the flag gonna come out
 ### Extra
-you can also do this in linux by convert the file into .json file and grep the frag from it (using = or ==)
+you can also do this in linux by convert the file into .json and open it in vscode then search for the event. or just = and ==
 
 ---
     
